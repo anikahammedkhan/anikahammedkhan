@@ -1,6 +1,7 @@
-### Hi there 👋, My name is Md Anik Ahammed Khan
-#### Front-end Developer
 ![Front-end Developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/271991987_145552821207772_8062887364916625270_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=SxzT-Dgv87cAX_k0aRP&tn=9RCvo6eEM1bh-d96&_nc_ht=scontent.fdac24-1.fna&oh=00_AT8EIt1g9XSDQbRKkujNv3YI2o8LSCTtnwTDu1DTcVGZ5A&oe=632F4049)
+
+### Hi there 👋, My name is Md Anik Ahammed Khan ![Profile views](https://gpvc.arturio.dev/anikahammedkhan)  
+#### Front-end Developer
 
 I am a Full Stack Web Developer. I am not from a Computer Science background but I am extremely interested in Technology, Ai, and Programming. Currently, I am learning data structure and algorithms. I am more interested in competitive programming, learning new things, and exploring new places. I am good at JavaScript and Python. I am trying to learn C++.
 Wish me good luck 😃
