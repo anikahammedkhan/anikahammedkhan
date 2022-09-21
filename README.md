@@ -33,5 +33,3 @@ Skills: REACT / JS / HTML / CSS/MongoDB/NodeJs/ExpressJs/Python
 ![GitHub metrics](https://metrics.lecoq.io/anikahammedkhan)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anikahammedkhan)  
-
-![Profile views](https://gpvc.arturio.dev/anikahammedkhan)  
