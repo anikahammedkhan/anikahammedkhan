@@ -1,9 +1,9 @@
-![Front-end Developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/271991987_145552821207772_8062887364916625270_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=SxzT-Dgv87cAX_k0aRP&tn=9RCvo6eEM1bh-d96&_nc_ht=scontent.fdac24-1.fna&oh=00_AT8EIt1g9XSDQbRKkujNv3YI2o8LSCTtnwTDu1DTcVGZ5A&oe=632F4049)
+![Front-End Web Developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/271991987_145552821207772_8062887364916625270_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=SxzT-Dgv87cAX_k0aRP&tn=9RCvo6eEM1bh-d96&_nc_ht=scontent.fdac24-1.fna&oh=00_AT8EIt1g9XSDQbRKkujNv3YI2o8LSCTtnwTDu1DTcVGZ5A&oe=632F4049)
 
 ### Hi there 👋, My name is Md Anik Ahammed Khan ![Profile views](https://gpvc.arturio.dev/anikahammedkhan)  
-#### Front-end Developer
+#### Front-End Web Developer
 
-I am a Full Stack Web Developer. I am not from a Computer Science background but I am extremely interested in Technology, Ai, and Programming. Currently, I am learning data structure and algorithms. I am more interested in competitive programming, learning new things, and exploring new places. I am good at JavaScript and Python. I am trying to learn C++.
+I am a Front-End Web Developer. I am not from a Computer Science background but I am extremely interested in Technology, Ai, and Programming. Currently, I am learning data structure and algorithms. I am more interested in competitive programming, learning new things, and exploring new places. I am good at JavaScript and Python. I am trying to learn C++.
 Wish me good luck 😃
 
 Skills: REACT / JS / HTML / CSS/MongoDB/NodeJs/ExpressJs/Python
@@ -15,7 +15,7 @@ Skills: REACT / JS / HTML / CSS/MongoDB/NodeJs/ExpressJs/Python
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: anikkhan1105@gamil.com 
 - 😄 Pronouns: He 
-- ⚡ Fun fact: Extrem Hard Worker 
+- ⚡ Fun fact: Hard Worker 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anikahammedkhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anikahammedkhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/anikahammedkhan.99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anikahammedkhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anikahamedkhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/anikahammedkhan)  
