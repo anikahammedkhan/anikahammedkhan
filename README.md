@@ -49,9 +49,7 @@ Skills: REACT / JS / HTML / CSS/MongoDB/NodeJs/ExpressJs/Python
  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anikahammedkhan)](https://github.com/ryo-ma/github-profile-trophy)
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anikahammedkhan)
 ![languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anikahammedkhan&hide=scss&layout=compact&theme=tokyonight)
 ![topic](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anikahammedkhan&theme=zenburn)
 <p align="left"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anikahammedkhan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anikahammedkhan)
-![dark_repo](https://github-readme-stats.vercel.app/api/pin/?username=anikahammedkhan&repo=github-readme-stats&cache_seconds=86400&theme=dark)
