@@ -27,6 +27,10 @@
 I am a Front-End Web Developer. I am not from a Computer Science background but I am extremely interested in Technology, Ai, and Programming. Currently, I am learning data structure and algorithms. I am more interested in competitive programming, learning new things, and exploring new places. I am good at JavaScript and Python. I am trying to learn C++.
 Wish me good luck 😃
 
+:coffee: &emsp;Connect with me!
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anikahammedkhan.99) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anikahammedkhan/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anikahammedkhan/)[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikkhan1105@gmail.com)
+
 Skills: REACT / JS / HTML / CSS/MongoDB/NodeJs/ExpressJs/Python
 
 - 🔭 I’m currently working on Private Projects 
