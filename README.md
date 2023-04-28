@@ -22,17 +22,6 @@
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ### Hi there 👋, My name is Md Anik Ahammed Khan ![Profile views](https://gpvc.arturio.dev/anikahammedkhan)  
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=anikahammedkhan&label=PROFILE+VIEWS" alt="anikahammedkhan" /> 
-</p>
-
-<p align="left">	  
- <a href="https://xdvrx1.github.io/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fanikahammedkhan.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HOME+PAGE+VIEWS&edge_flat=false"/></a>
-</p>	
-
-<p align="left"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anikahammedkhan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
-
-![languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anikahammedkhan&hide=scss&layout=compact&theme=tokyonight)
 #### Front-End Web Developer
 
 I am a Front-End Web Developer. I am not from a Computer Science background but I am extremely interested in Technology, Ai, and Programming. Currently, I am learning data structure and algorithms. I am more interested in competitive programming, learning new things, and exploring new places. I am good at JavaScript and Python. I am trying to learn C++.
@@ -61,8 +50,8 @@ Skills: REACT / JS / HTML / CSS/MongoDB/NodeJs/ExpressJs/Python
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anikahammedkhan)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikahammedkhan)
+![languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anikahammedkhan&hide=scss&layout=compact&theme=tokyonight)
 ![topic](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anikahammedkhan&theme=zenburn)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anikahammedkhan&show_icons=true&count_private=true)
+<p align="left"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anikahammedkhan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anikahammedkhan)
 ![dark_repo](https://github-readme-stats.vercel.app/api/pin/?username=anikahammedkhan&repo=github-readme-stats&cache_seconds=86400&theme=dark)
