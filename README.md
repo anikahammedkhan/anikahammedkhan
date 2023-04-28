@@ -54,4 +54,4 @@ Skills: REACT / JS / HTML / CSS/MongoDB/NodeJs/ExpressJs/Python
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anikahammedkhan&show_icons=true&count_private=true) 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anikahammedkhan)  
 
-[dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anikahammedkhan&repo=github-readme-stats&cache_seconds=86400&theme=dark
+[dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=dark
