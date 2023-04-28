@@ -50,7 +50,8 @@ Skills: REACT / JS / HTML / CSS/MongoDB/NodeJs/ExpressJs/Python
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anikahammedkhan)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikahammedkhan)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikahammedkhan)
+![stats](https://github.com/anuraghazra/github-readme-stats)
 ![topic](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anikahammedkhan&theme=zenburn)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anikahammedkhan&show_icons=true&count_private=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anikahammedkhan)
