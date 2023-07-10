@@ -39,7 +39,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 
-### Hi there 👋, My name is Md Anik Ahammed Khan ![Profile views](https://gpvc.arturio.dev/anikahammedkhan)  
+### Hi there 👋, My name is Md Anik Ahammed Khan ![](https://komarev.com/ghpvc/?username=anikahammedkhan) 
 #### Front-End Web Developer
 
 I am a Front-End Web Developer. I am not from a Computer Science background but I am extremely interested in Technology, Ai, and Programming. Currently, I am learning data structure and algorithms. I am more interested in competitive programming, learning new things, and exploring new places. I am good at JavaScript and Python. I am trying to learn C++.
