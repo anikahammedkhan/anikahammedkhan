@@ -42,7 +42,7 @@
 ### Hi there 👋, My name is Md Anik Ahammed Khan ![](https://komarev.com/ghpvc/?username=anikahammedkhan) 
 #### Front-End Web Developer
 
-I am a Front-End Web Developer. I am not from a Computer Science background but I am extremely interested in Technology, Ai, and Programming. Currently, I am learning data structure and algorithms. I am more interested in competitive programming, learning new things, and exploring new places. I am good at JavaScript and Python. I am trying to learn C++.
+I am a Front-End Web Developer. I do not have a Computer Science background but I am extremely interested in Technology, AI, and Programming. Currently, I am learning data structure and algorithms. I am more interested in competitive programming, learning new things, and exploring new places. I am good at JavaScript and Python. I am trying to learn C++.
 Wish me good luck 😃
 
 :coffee: &emsp;Connect with me!
@@ -67,7 +67,7 @@ Skills: REACT / JS / HTML / CSS/MongoDB/NodeJs/ExpressJs/Python
  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anikahammedkhan)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anikahammedkhan)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anikahammedkhan&theme=dark)](https://git.io/streak-stats)
 ![languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anikahammedkhan&hide=scss&layout=compact&theme=tokyonight) <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anikahammedkhan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 ![topic](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anikahammedkhan&theme=zenburn)
 
