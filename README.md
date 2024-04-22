@@ -29,29 +29,19 @@
 
 
 ### Hi there 👋, My name is Md Anik Ahammed Khan ![](https://komarev.com/ghpvc/?username=anikahammedkhan) 
-#### Front-End Web Developer
+#### Software Engnieer
 
-I am a Front-End Web Developer. I do not have a Computer Science background but I am extremely interested in Technology, AI, and Programming. Currently, I am learning data structure and algorithms. I am more interested in competitive programming, learning new things, and exploring new places. I am good at JavaScript and Python. I am trying to learn C++.
-Wish me good luck 😃
+As a Software Engnieer at BlackRock IT Solutions, I design and develop user-friendly web applications that integrate seamlessly with backend services. I have 3+ years of professional experience in the MERN stack, using React, Node.js, Express.js, and MongoDB to build scalable and efficient solutions.
 
 :coffee: &emsp;Connect with me!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anikahammedkhan.99) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anikahammedkhan/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anikahammedkhan/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikkhan1105@gmail.com)
-
-- 🔭 I’m currently working on Private Projects 
-- 🌱 I’m currently learning DevOps 
-- 👯 I’m looking to collaborate on Front-end Projects
-- 📫 How to reach me: anikkhan1105@gamil.com 
-- 😄 Pronouns: He 
-- ⚡ Fun fact: I love to sleep..!
 
 
 #### Things I code with
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anikahammedkhan)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://streak-stats.demolab.com?user=anikahammedkhan&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anikahammedkhan&hide=scss&layout=compact&theme=tokyonight) <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anikahammedkhan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=anikahammedkhan&repo=reseliya-client&theme=tokyonight)](https://github.com/anikahammedkhan/reseliya-client)
