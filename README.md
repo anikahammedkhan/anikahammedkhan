@@ -44,4 +44,3 @@ As a Software Engnieer at BlackRock IT Solutions, I design and develop user-frie
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=anikahammedkhan&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anikahammedkhan&hide=scss&layout=compact&theme=tokyonight) <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anikahammedkhan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=anikahammedkhan&repo=reseliya-client&theme=tokyonight)](https://github.com/anikahammedkhan/reseliya-client)
