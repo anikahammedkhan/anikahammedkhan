@@ -31,7 +31,7 @@
 ### Hi there 👋, My name is Md Anik Ahammed Khan ![](https://komarev.com/ghpvc/?username=anikahammedkhan) 
 #### Software Engnieer
 
-As a Software Engnieer at BlackRock IT Solutions, I design and develop user-friendly web applications that integrate seamlessly with backend services. I have 3+ years of professional experience in the MERN stack, using React, Node.js, Express.js, and MongoDB to build scalable and efficient solutions.
+As a Software Engnieer at FringeCore_ , I design and develop user-friendly web applications that integrate seamlessly with backend services. I have 4+ years of professional experience in the Full stack development, using React, NextJs, Astro, Pyaload CMS, Node.js, Express.js, MongoDB, Docker, AWS, Cloudlfare, K8S, Firebase to build scalable and efficient solutions.
 
 :coffee: &emsp;Connect with me!
 
