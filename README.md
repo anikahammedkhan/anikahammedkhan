@@ -33,6 +33,14 @@
 
 As a Software Engnieer at FringeCore_ , I design and develop user-friendly web applications that integrate seamlessly with backend services. I have 4+ years of professional experience in the Full stack development, using React, React Native, NextJs, Astro, Pyaload CMS, Node.js, Express.js, MongoDB, Postgres, GraphQL, Docker, AWS, Cloudflare, K8S, Firebase to build scalable and efficient solutions.
 
+### Recent Achievements / Contributions
+
+* Developed [Job Visa Hunt](https://jobvisahunt.com/), which is a Job portal like Linkedin and indeed but specefied for only sponsored jobs, which have 3,000+ active users and growing.
+* Developed [TuudAuto](https://tuudauto-client.pages.dev/), which is a Uk based Professional Tuud auto service, you can hire a driver as your need and also can add your car sell post on that website.
+</div>
+<br/>
+<br/>
+
 :coffee: &emsp;Connect with me!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anikahammedkhan.99) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anikahammedkhan/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anikahammedkhan/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikkhan1105@gmail.com)
