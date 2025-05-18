@@ -36,7 +36,7 @@ As a Software Engnieer at FringeCore_ , I design and develop user-friendly web a
 ### Recent Achievements / Contributions
 
 * Developed [Job Visa Hunt](https://jobvisahunt.com/), which is a Job portal like Linkedin and indeed but specefied for only sponsored jobs, which have 3,000+ active users and growing.
-* Developed [TuudAuto](https://tuudauto-client.pages.dev/), which is a Uk based Professional Tuud auto service, you can hire a driver as your need and also can add your car sell post on that website.
+* Developed [TuudAuto](https://tuudauto.co.uk/), which is a Uk based Professional Tuud auto service, you can hire a driver as your need and also can add your car sell post on that website.
 </div>
 <br/>
 <br/>
